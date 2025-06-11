@@ -1,4 +1,4 @@
-🎯 Ready to Build, Learn & Grow
+🎯 Ready to Learn, Build & Contribute
 
 I'm a junior Computer Science student at Virginia Tech passionate about developing practical, real-world software. I've deployed my own website using HTML, CSS, and AWS (check it out: [elainigeffa.com](https://elainigeffa.com)) and built a motivational calendar app that ranked #1 in a 200-person cohort for its design and functionality.
 
