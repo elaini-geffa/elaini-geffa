@@ -1,4 +1,13 @@
-## Hi there 👋
+🎯 Ready to Build, Learn & Grow
+
+I'm a junior Computer Science student at Virginia Tech passionate about developing practical, real-world software. I've deployed my own website using HTML, CSS, and AWS (check it out: [elainigeffa.com](https://elainigeffa.com)) and built a motivational calendar app that ranked #1 in a 200-person cohort for its design and functionality.
+
+I'm driven by curiosity and problem-solving, especially in unfamiliar territory. I take initiative, adapt quickly, and continuously challenge myself to learn new technologies and deliver meaningful results.
+
+📬 Let's Connect:  
+Email: elainigeffa05@gmail.com  
+LinkedIn: [linkedin.com/in/elainigeffa](https://www.linkedin.com/in/elainigeffa)
+
 
 <!--
 **elaini-geffa/elaini-geffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
